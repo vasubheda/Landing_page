@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+}
+div{
+    margin: 0;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+h5{
+    display: inline-block;
+    position: absolute;
+    margin-top: 0;
+    margin-left: 80px;
+    color: white;
+}
+h6{
+    display: inline-block;
+    position: absolute;
+    margin-top: 0;
+    margin-left: 70px;
+    padding-bottom: 40px;
+    color: white;
+}
+hr{
+    margin: 0;
+    border: 2px solid black;
+}
+footer{
+    background-color: black;
+    padding-bottom: 55px;
+    margin-bottom: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0 550px 0;
+  overflow: hidden;
+  background-color: #5c3eed;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #432fa9;
+}
+.navbar{
+    text-align: center;
+    background-color: gold;
+    margin: 0;
+    font-size: 80px;
+    padding: 30px 0px;
+}
+.content{
+    font-size: 30px;
+    border-style: solid;
+    padding: 115px 226px 104px;
+    display: inline-block;
+    position: absolute;
+    margin-bottom: 50px;
+}
+.heroimg{
+    margin-bottom: 0;
+    border-style: solid;
+    display: inline-block;
+    margin-left: 773px;
+    padding: 68px 170.5px;
+}
+.what{
+    background-color: #f86c07;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin: 0;
+}
+.para{
+    text-align: center;
+    background-color: white;
+    border-radius: 7px;
+    padding: 20px;
+    width: 40%;
+    position: relative;
+    margin: auto;
+    box-shadow: 10px -10px 0px black;
+    border: solid;
+}
+.why{
+    background-color: #94e95d;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin: 0;
+}
+.how{
+    margin: 0;
+    background-image: url(Grid.png);
+    padding-top: 50px;
+    padding-bottom: 100px;
+    
+}
+.p123{
+    background-color: white;
+    margin: 0px 50px 0px 100px;
+    padding: 40px;
+    width: 250px;
+    height: 230px;
+    border: solid;
+    border-radius: 7px;
+    box-shadow: 10px -10px 0px black;
+}
+.where{
+    background-color: gold;
+    padding-top: 15px;
+    padding-bottom: 60px;
+}
+.logos{
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: -150px;
+
+}
+.ftrlogo{
+    padding-top: 30px;
+    padding-left: 60px;
+}
+.p-upr{
+    color: #94e95d;
+
+}
+.p-lower{
+    color: white;
+}
+
